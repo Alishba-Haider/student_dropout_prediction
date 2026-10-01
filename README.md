@@ -108,3 +108,6 @@ student-dropout-prediction/
 ├── requirements.txt
 ├── README.md
 └── student_dropout.ipynb
+## Live Application
+
+[Open the Live Application] ( https://studentdropoutprediction-ebrczukghbeaedsuay4myu.streamlit.app/ )
