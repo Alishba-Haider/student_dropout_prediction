@@ -109,5 +109,4 @@ student-dropout-prediction/
 ├── README.md
 └── student_dropout.ipynb
 ## Live Application
-
-[Open the Live Application] ( https://studentdropoutprediction-ebrczukghbeaedsuay4myu.streamlit.app/ )
+ ( https://studentdropoutprediction-ebrczukghbeaedsuay4myu.streamlit.app/ )
