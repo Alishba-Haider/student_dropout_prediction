@@ -109,4 +109,4 @@ student-dropout-prediction/
 ├── README.md
 └── student_dropout.ipynb
 ## Live Application
- ( https://studentdropoutprediction-ebrczukghbeaedsuay4myu.streamlit.app/ )
+  https://studentdropoutprediction-ebrczukghbeaedsuay4myu.streamlit.app/ <img width="623" height="620" alt="Screenshot 2026-10-02 032714" src="https://github.com/user-attachments/assets/078ea247-a9a3-4343-bbf1-4c52be646dae" />
